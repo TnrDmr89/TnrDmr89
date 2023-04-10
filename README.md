@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on SBI Bilisim as Junior Java Software
-- 🌱 I’m currently learning Java 1.8,SpringBoot,Maven,Gradle,Sybase,Side FrameWork,PostGre SQL,Vue.js,HTML,CSS,Boostrap
-- 🤔 I’m looking for help with SpringBoot,Vue.js,CSS,Boostrap,PostGre SQL
+- 🌱 I’m currently learning Java 1.8, SpringBoot, Maven, Gradle, Sybase, Side FrameWork, PostGre SQL, Vue.js, HTML, CSS, Boostrap
+- 🤔 I’m looking for help with SpringBoot, Vue.js, CSS, Boostrap, PostGre SQL
 
 My top language
 
